@@ -1,8 +1,8 @@
 /*gracias por usar el bot, si quieres rescanear el código qr borra la carpeta DORRATSESSION, DAR RESTAR O ESTART
 número del bot oficial +573122695406
 Si quieres cambiar los números owners ve a configuracion.js
-Creador: DIEGO-OFC número: +593959425714
-Error en la consola? Repórtalo al número +593959425714
+Creador: YUREM-OFC número: +525645014731
+Error en la consola? Repórtalo al número +525645014731
 puedes editar el bot como tu quieras!
 host recomendados; boxmineworld.com acidicnodes.com o termux 
 si deseas ayuda o soporte unete al grupo oficial o escribe al numero del creador 
@@ -10,7 +10,7 @@ en este github siempre van a tener actualizaciones
 NO ME HAGO RESPONSABLE DEL MAL USO QUE PUEDA TENER EL BOT 
 los numeros del bot oficial son: wa.me/573122695406 o wa.me/240555351060
 bot creado para la diversión de usuarios 
-DORR∆T-BOT-MD CREATE BY DIEGO-OFC 
+YUREM-BOT CREATE BY YUREM-OFC 
 GRUPO OFICIAL: 
 https://chat.whatsapp.com/CrsOmirjZNYKrvnQNT98Oo 
               si necesitas ayuda unete al grupo oficial 
